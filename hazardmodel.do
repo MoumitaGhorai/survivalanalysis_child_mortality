@@ -1,7 +1,7 @@
 
 
 			* import the birth records file for this part of the index
-			use "C:\Users\moumi\Desktop\internship(undp)\Africa (DHS)\(1) DHS (base dataset)\Burkina Faso\BFBR31DT\BFBR31FL.dta", clear
+			use "~BFBR31FL.dta", clear
 
 			* generating variables for regression
 
